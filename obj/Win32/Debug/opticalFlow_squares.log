@@ -1,0 +1,12 @@
+﻿  ofApp.cpp
+c:\users\maria\openframeworks\addons\ofxcv\libs\ofxcv\include\ofxcv\tracker.h(326): warning C4018: '<': signed/unsigned mismatch
+c:\users\maria\onedrive\documents\senior\aaronstest\sensorsbodymotion\openframeworks\opticalflow_squares\src\ofapp.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\maria\onedrive\documents\senior\aaronstest\sensorsbodymotion\openframeworks\opticalflow_squares\src\ofapp.cpp(22): warning C4018: '<': signed/unsigned mismatch
+  opticalFlow_squares.vcxproj -> C:\Users\maria\OneDrive\Documents\Senior\aaronstest\sensorsbodymotion\openFrameworks\opticalFlow_squares\bin\opticalFlow_squares_debug.exe
+  
+  	                   2	C:\Users\maria\openFrameworks\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\maria\OneDrive\Documents\Senior\aaronstest\sensorsbodymotion\openFrameworks\opticalFlow_squares\bin\FreeImage.dll
+  
+  	                   1	C:\Users\maria\openFrameworks\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\maria\OneDrive\Documents\Senior\aaronstest\sensorsbodymotion\openFrameworks\opticalFlow_squares\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\maria\OneDrive\Documents\Senior\aaronstest\sensorsbodymotion\openFrameworks\opticalFlow_squares\bin\fmodexL.dll
