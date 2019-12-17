@@ -14,7 +14,7 @@ LEDs inside the semi-opaque dodecahedron allowed this to be possible. Apart from
 we also decided to use a neopixel ring. We added this to make the dodecahedron appear like something alive, changing colors twice during 
 the performance. We made this possible by enabling the Neopixel ring to be remotely via a Bluetooth LE and the Adafruit application. Erica Wu performed as our dancer. 
 
-![Orb](https://raw.githubusercontent.com/slw515/Ananke/master/documentationpics/ananke4.JPG)
+![Orb](https://raw.githubusercontent.com/slw515/Ananke/master/documentationpics/ananke4.jpg)
 
 The visuals were all programmed in C++ using OpenFrameworks with some prototyping done  
 in Processing. We decided to use particle animations since we believed this would be the most flexible
