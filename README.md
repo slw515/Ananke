@@ -1,8 +1,7 @@
 # Ananke
 Interactive Dance Performance in OpenFrameworks (Made In Collaboration with Mari Calderon and Erica Wu)
 
-
-
+![Ananke](https://raw.githubusercontent.com/slw515/Ananke/master/documentationpics/ananke1.JPG)
 
 Ananke, a reference to the greek personification of inevitability, compulsion, and necessity, deals with the double-edged nature of technology, in the
 midst of a society where the lines between technology, surveillance, and data privacy get increasingly blurred. The piece deals with the interactions
@@ -13,7 +12,9 @@ as she focus on it and bends its powers to her will, a hidden figure emerges, su
 This interactive performance uses live tracking of an infrared light using a PS3Eye Camera. Using a ring of bright infrared
 LEDs inside the semi-opaque dodecahedron allowed this to be possible. Apart from the infrared lights inside the dodecahedron, 
 we also decided to use a neopixel ring. We added this to make the dodecahedron appear like something alive, changing colors twice during 
-the performance. We made this possible by enabling the Neopixel ring to be remotely via a Bluetooth LE and the Adafruit application. 
+the performance. We made this possible by enabling the Neopixel ring to be remotely via a Bluetooth LE and the Adafruit application. Erica Wu performed as our dancer. 
+
+![Orb](https://raw.githubusercontent.com/slw515/Ananke/master/documentationpics/ananke4.JPG)
 
 The visuals were all programmed in C++ using OpenFrameworks with some prototyping done  
 in Processing. We decided to use particle animations since we believed this would be the most flexible
