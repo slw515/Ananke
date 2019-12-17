@@ -2,6 +2,8 @@
 Interactive Dance Performance in OpenFrameworks (Made In Collaboration with Mari Calderon and Erica Wu)
 
 
+
+
 Ananke, a reference to the greek personification of inevitability, compulsion, and necessity, deals with the double-edged nature of technology, in the
 midst of a society where the lines between technology, surveillance, and data privacy get increasingly blurred. The piece deals with the interactions
 between a dancer and a mysterious dodecahedron hanging from the stage ceiling, triggering sounds and visuals throughout the performance. The performance
